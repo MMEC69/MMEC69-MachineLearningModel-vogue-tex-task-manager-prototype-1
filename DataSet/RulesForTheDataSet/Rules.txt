@@ -1,0 +1,6 @@
+#########################Rules For the Data Set###########################################
+1. The least number of the instance is 1 
+2. For each project on the time period ads about 1 for projects under month
+3. For each task it ads about 3
+4. For projects longer than a month have additonal 1 for project value resulting (1+1 = 2)
+5.
